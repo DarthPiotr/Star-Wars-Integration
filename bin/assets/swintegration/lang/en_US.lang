@@ -1,0 +1,11 @@
+tile.compressed_chromium.name=Chromium Package
+tile.compressed_titanium.name=Titanium Package
+tile.kyber_generator.name=Kyber Generator
+tile.kyber_holder.name=Kyber Holder
+lightsaberCrystalBlend.name=Kyber Blend
+kyberPlace.name=Kyber Place
+generatorCircuit.name=Generator Circuit
+generatorCore.name=Generator Core
+generatorPlate.name=Generator Plate
+itemGroup.Star Wars Integration=Star Wars Integration
+container.kyberGenerator=Kyber Generator
